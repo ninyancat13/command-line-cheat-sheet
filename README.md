@@ -1,7 +1,8 @@
 # command-line-cheat-sheet
 
-
 ## Deleting files
+Credit: https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/?fbclid=IwAR3tb1kUy2EDQz4rQ6FeY0hRo2usX5E0y7x-Hkh0TAfABCfrl6foLJkHq4g
+
 To delete a single file, use the rm or unlink command followed by the file name:
 ```
 rm filename
