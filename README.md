@@ -44,3 +44,9 @@ To remove multiple directories at once, use the rm -r command followed by the di
 ```
 rm -r dirname1 dirname2 dirname3
 ```
+
+## Cloning
+In order to clone, copy the URL of the relevant repository and put inside this command
+```
+git clone URL
+```
