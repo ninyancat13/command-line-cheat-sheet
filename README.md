@@ -1,5 +1,9 @@
 # command-line-cheat-sheet
 
+## ZSH Style Guide
+https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/
+I use the dracula theme https://draculatheme.com/iterm
+
 ## Deleting files
 Credit: https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/?fbclid=IwAR3tb1kUy2EDQz4rQ6FeY0hRo2usX5E0y7x-Hkh0TAfABCfrl6foLJkHq4g
 
